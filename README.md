@@ -1,11 +1,12 @@
-These files contain the data for "Unfulfilled Promises: Tensions in Mission Statements of For-Profit Colleges and Universities."
+This repository contains the data for "Unfulfilled Promises: Tensions in Mission Statements of For-Profit Colleges and Universities."
 
-**For-profit College Missions**
+## For-profit College Missions Dataset
 
-FPCU_MissionStatement_Data.csv
+File name: [FPCU_MissionStatement_Data.csv](https://github.com/jakedwinfield/forprofit-missions/blob/main/FPCU_MissionStatement_Data.csv)
 
 This CSV file contains the sample of 98 colleges that had an undergraduate enrollment over 1,000 analyzed for the paper. These data were collected from institutional websites in February and March, 2020. This file contains 73 unique missions, as duplicate missions were only analyzed once.
 
+### Variable Definitions
 UnitID: The IPEDS UnitId for each institution
 
 Institution Name: The name of the institution in IPEDS. This does occassionally vary from how an institution refers to itself.
@@ -20,8 +21,12 @@ Mission Statement: The text of the mission statement as it was analyzed.
 
 Note: South University (UnitID 475121) described itself in its 2020 mission statement as a non-profit, but was categorized in IPEDS as a for-profit institution. The mission statement has since removed this language. 
 
-**Data Analysis**
+## Data Analysis
 
-FPCU_MissionStatements_Analysis.mx20
+File name: [FPCU_MissionStatements_Analysis.mx20](https://github.com/jakedwinfield/forprofit-missions/blob/main/FPCU_MissionStatements_Analysis.mx20)
 
 This MAXQDA 2020 file contains the final codes from the analysis in the paper. You can read this file using [MAXQDA Reader 2020](https://www.maxqda.com/products/maxqda-reader), which is available for free.
+
+## Recommended Citation
+
+Winfield, J. D., & Pressimone Beckowski, C. (2022). *Unfulfilled promises: Tensions in mission statements of for-profit colleges and universities* [Data set]. Open Science Framework. [https://osf.io/6gh9f]()
